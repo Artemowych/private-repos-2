@@ -27,7 +27,7 @@
 1. Repeat steps 1-5 from Task 1 for the query https://makeup.com.ua/ua/product/00000/
 2. In DevTools, find the query "00000/". Analyze its method and status.
 3. Fill in the "Task #6" sheet of Google Sheets for this query.
- ## Task 7:
+ #### Task 7:
 1. Repeat steps 1-5 from Task 1 for the query https://graph.makeup.com.ua/chat/user/me
 2. In DevTools, find the query "me". Analyze its method and status.
 3. Fill in the "Task #7" sheet of Google Sheets for this query.
