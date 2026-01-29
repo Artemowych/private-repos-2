@@ -15,6 +15,12 @@
 3. Performed functional and exploratory testing
 4. Checked data validation, calculations, and dynamic updates
 5. Identified, documented, and reported bugs
+### Tools & Skills Demonstrated
+* Manual testing
+* Test case design
+* Bug reporting
+* UI/UX validation
+* Web application testing
 
 
 
